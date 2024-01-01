@@ -192,5 +192,9 @@
   "Champions": "Champions",
   "Done": "Done",
   "Cant get utc time": "Can't get utc time",
-  "Yesterday": "Yesterday"
+  "Yesterday": "Yesterday",
+  "Delete Account": "Delete Account",
+  "Enter your old password": "Enter your old password",
+  "Pending": "Pending",
+  "Delivered": "Delivered"
 }

@@ -192,5 +192,9 @@
   "Champions": "الأبطال",
   "Done": "تم بنجاح",
   "Cant get utc time": "غير قادر على الحصول على التوقيت العالمي المنسق",
-  "Yesterday": "أمس"
+  "Yesterday": "أمس",
+  "Delete Account": "حذف الحساب",
+  "Enter your old password": "أدخل كلمة السر القديمة",
+  "Pending": "معلقة",
+  "Delivered": "وصلت"
 }
