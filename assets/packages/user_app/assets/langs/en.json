@@ -212,5 +212,14 @@
   "Enter your username": "Enter your username",
   "Username already exists, use another one please": "Username already exists, use another one please",
   "Username Changed Successfully": "Username Changed Successfully",
-  "No user id set": "No user id set"
+  "No user id set": "No user id set",
+  "Rules": "Rules",
+  "Agree": "Agree",
+  "Exit": "Exit",
+  "Blocks": "Blocks",
+  "Block": "Block",
+  "Unblock": "Unblock",
+  "You are blocked!": "You are blocked!",
+  "You blocked this user!": "You blocked this user!",
+  "No Blocks!": "No Blocks!"
 }
